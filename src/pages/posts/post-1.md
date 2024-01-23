@@ -1,14 +1,16 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: 'My first Blog Post'
 description: 'This is a new post of my new Astro blog'
 author: 'Imantas Precas'
+pubDate: 2024-01-20
 image: 
     url: 'https://docs.astro.build/assets/full-logo-light.png'
     alt: 'The full Astro logo'
 tags: ["astro", "blogging",  "learning"]
 ---
 
-Published on: 2024-01-20
+
 
 Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build new website.
 
